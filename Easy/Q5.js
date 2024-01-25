@@ -21,4 +21,4 @@ function addUp(parameter) {
 
 const output = addUp(600)
 
-console.log(output);
+console.log(output);// output 180300
