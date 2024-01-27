@@ -30,4 +30,4 @@ function count(win){
 
 const output = points(5, 0, 2 , count);
 
-console.log(output);// Output = 15;
+console.log(output);// Output = 15
