@@ -22,4 +22,4 @@ function minMax(...value){
 }
 
 const Output = minMax(2334454, 5)
-console.log(Output); // Output :- [2334454, 5] 
+console.log(Output); // Output :- [ 5, 2334454 ]
