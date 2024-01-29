@@ -19,3 +19,6 @@ function firstElement(...parameter){
 
 const output = firstElement(80, 5, 100);
 console.log(output); // Output :- 80
+
+
+
