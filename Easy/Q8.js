@@ -19,3 +19,4 @@ function potatoes(parameter){
 
 console.log(potatoes("potato")); //Output :- 1 
 console.log(potatoes("potatopotato")); //Output :- 2
+
