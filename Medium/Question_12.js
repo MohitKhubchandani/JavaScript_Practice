@@ -32,3 +32,9 @@ var isAnagram = function(s, t) {
     return Object.keys(mp).length == 0;
 
 };
+
+
+const ans = isAnagram("anagram" ,"nagaram" )
+console.log(ans);
+
+// Output :- true
